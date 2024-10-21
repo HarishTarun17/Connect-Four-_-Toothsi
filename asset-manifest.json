@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Connect-Four-_-Toothsi/static/css/main.62852f83.css",
+    "main.js": "/Connect-Four-_-Toothsi/static/js/main.889eecaa.js",
+    "index.html": "/Connect-Four-_-Toothsi/index.html",
+    "main.62852f83.css.map": "/Connect-Four-_-Toothsi/static/css/main.62852f83.css.map",
+    "main.889eecaa.js.map": "/Connect-Four-_-Toothsi/static/js/main.889eecaa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62852f83.css",
+    "static/js/main.889eecaa.js"
+  ]
+}
